@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our Hoser's slide!"
 ---
-This is DHaber's Slide of Power
+This is Hoser Haber's Slide of Power
 Use the left arrow to go back!
